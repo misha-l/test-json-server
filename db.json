@@ -7,11 +7,18 @@
             "gender": "Male"
         },
         {
-            "id": 1,
-            "name": "Cherry",
-            "age": 2,
-            "place": "Visakhapatnam",
-            "gender": "Male"
+            "name": "Joro",
+            "age": 11,
+            "place": "Sofia",
+            "gender": "Male",
+            "id": 2
+        },
+        {
+            "name": "Joroto",
+            "age": 11,
+            "place": "Sofia",
+            "gender": "Male",
+            "id": 3
         }
     ]
 }
