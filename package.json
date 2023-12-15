@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/misha-l/test-json-server#readme",
   "dependencies": {
+    "heroku": "^8.7.1",
     "json-server": "^0.17.4",
     "nodemon": "^3.0.2"
   }
