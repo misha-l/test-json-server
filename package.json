@@ -1,0 +1,25 @@
+{
+  "name": "heroku-json-server",
+  "version": "1.0.0",
+  "description": "\"# test-json-server\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misha-l/test-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misha-l/test-json-server/issues"
+  },
+  "homepage": "https://github.com/misha-l/test-json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "nodemon": "^3.0.2"
+  }
+}
